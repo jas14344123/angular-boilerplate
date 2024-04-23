@@ -92,3 +92,4 @@ export class AlertComponent implements OnInit, OnDestroy {
         return classes.join(' ');
     }
 }
+
